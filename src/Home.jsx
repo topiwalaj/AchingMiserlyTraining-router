@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <p>Home this is home page</p>
+    <p>Home this is home page im in vscode now</p>
   )
 }
 
